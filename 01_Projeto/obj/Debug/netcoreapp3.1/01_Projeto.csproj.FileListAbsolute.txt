@@ -1,0 +1,16 @@
+G:\Estudo\Curso Intermediario\Seção 08\01_Projeto\01_Projeto\bin\Debug\netcoreapp3.1\01_Projeto.exe
+G:\Estudo\Curso Intermediario\Seção 08\01_Projeto\01_Projeto\bin\Debug\netcoreapp3.1\01_Projeto.deps.json
+G:\Estudo\Curso Intermediario\Seção 08\01_Projeto\01_Projeto\bin\Debug\netcoreapp3.1\01_Projeto.runtimeconfig.json
+G:\Estudo\Curso Intermediario\Seção 08\01_Projeto\01_Projeto\bin\Debug\netcoreapp3.1\01_Projeto.runtimeconfig.dev.json
+G:\Estudo\Curso Intermediario\Seção 08\01_Projeto\01_Projeto\bin\Debug\netcoreapp3.1\01_Projeto.dll
+G:\Estudo\Curso Intermediario\Seção 08\01_Projeto\01_Projeto\bin\Debug\netcoreapp3.1\01_Projeto.pdb
+G:\Estudo\Curso Intermediario\Seção 08\01_Projeto\01_Projeto\obj\Debug\netcoreapp3.1\01_Projeto.csprojAssemblyReference.cache
+G:\Estudo\Curso Intermediario\Seção 08\01_Projeto\01_Projeto\obj\Debug\netcoreapp3.1\01_Projeto.AssemblyInfoInputs.cache
+G:\Estudo\Curso Intermediario\Seção 08\01_Projeto\01_Projeto\obj\Debug\netcoreapp3.1\01_Projeto.AssemblyInfo.cs
+G:\Estudo\Curso Intermediario\Seção 08\01_Projeto\01_Projeto\obj\Debug\netcoreapp3.1\01_Projeto.csproj.CoreCompileInputs.cache
+G:\Estudo\Curso Intermediario\Seção 08\01_Projeto\01_Projeto\obj\Debug\netcoreapp3.1\01_Projeto.dll
+G:\Estudo\Curso Intermediario\Seção 08\01_Projeto\01_Projeto\obj\Debug\netcoreapp3.1\01_Projeto.pdb
+G:\Estudo\Curso Intermediario\Seção 08\01_Projeto\01_Projeto\obj\Debug\netcoreapp3.1\01_Projeto.genruntimeconfig.cache
+G:\Estudo\Curso Intermediario\Seção 08\01_Projeto\01_Projeto\bin\Debug\netcoreapp3.1\Lib.dll
+G:\Estudo\Curso Intermediario\Seção 08\01_Projeto\01_Projeto\bin\Debug\netcoreapp3.1\Lib.pdb
+G:\Estudo\Curso Intermediario\Seção 08\01_Projeto\01_Projeto\obj\Debug\netcoreapp3.1\01_Projeto.csproj.CopyComplete

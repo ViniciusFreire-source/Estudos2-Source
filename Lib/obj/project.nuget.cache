@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kh3sZhdzf+eqvvfUyxQzbomvdD3hf7UhaFP7RGEWXmazEvid1mHA4lqj8nZa0LcjH0u74vqbBuVdmeJyqKvMTw==",
+  "success": true,
+  "projectFilePath": "G:\\Estudo\\Curso Intermediario\\Seção 08\\01_Projeto\\Lib\\Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vini7\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vini7\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
